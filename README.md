@@ -16,6 +16,7 @@ Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde [py
 
 ```bash
 pip install yt-dlp
+```
 
 ## Uso del Script
 
