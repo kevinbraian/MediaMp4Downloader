@@ -14,7 +14,8 @@ Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde [py
 
 `yt-dlp` se puede instalar fácilmente a través de pip. Abre tu terminal o línea de comandos y ejecuta:
 
-```bash
+
+```
 pip install yt-dlp
 ```
 
